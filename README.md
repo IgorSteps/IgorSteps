@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IgorSteps, 3rd year Computer Graphics Student at [UEA](https://www.uea.ac.uk/)
-- 👀 I’m interested in Games, Computer Graphics, Programming and Maths
-- 🌱 I’m currently working on a Geometry Dash clone
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning OpenGL api
 - 📍 Software Developer Intern at HPE
 - 📫 How to reach me https://www.linkedin.com/in/igor-stepanenko/
 
