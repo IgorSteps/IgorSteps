@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @IgorSteps, 3rd year Computer Graphics Student at [UEA](https://www.uea.ac.uk/)
 - 📍 Software Engineering Intern at [HPE](https://www.hpe.com/uk/en/home.html)
-- 🌱 I’m currently learning OpenGL 3D API
 - 📫 How to reach me https://linktr.ee/igorsteps
 
 <!---
