@@ -3,8 +3,6 @@
 - 📫 How to reach me https://linktr.ee/igorsteps
 - Currenly working on:
   - Real Time raytracer
-  - Maths Interpreter
-  - React Web app
 
 <!---
 IgorSteps/IgorSteps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
