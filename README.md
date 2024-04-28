@@ -2,7 +2,9 @@
 - 📍 Software Engineering Intern at [HPE](https://www.hpe.com/uk/en/home.html)
 - 📫 How to reach me https://linktr.ee/igorsteps
 - Currenly working on:
-  - Real Time raytracer
+  - Real-time raytracer
+  - 3D endless runner game in Unity
+  - Parking management system
 
 <!---
 IgorSteps/IgorSteps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
