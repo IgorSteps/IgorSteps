@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IgorSteps, Cloud Software Engineer at [HPE](https://www.hpe.com/uk/en/home.html)
 - 📫 How to reach me https://linktr.ee/igorsteps
 - Currenly working on:
-  - Nothing, too busy at work
+  - [Cloud File Processor](https://github.com/IgorSteps/cloud-file-processor)
 
 <!---
 IgorSteps/IgorSteps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
